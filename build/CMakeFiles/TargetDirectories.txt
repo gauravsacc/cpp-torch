@@ -1,0 +1,7 @@
+/home/ahmad/git/cpp-torch/build/CMakeFiles/install.dir
+/home/ahmad/git/cpp-torch/build/CMakeFiles/list_install_components.dir
+/home/ahmad/git/cpp-torch/build/CMakeFiles/rebuild_cache.dir
+/home/ahmad/git/cpp-torch/build/CMakeFiles/cpptorch.dir
+/home/ahmad/git/cpp-torch/build/CMakeFiles/install/local.dir
+/home/ahmad/git/cpp-torch/build/CMakeFiles/install/strip.dir
+/home/ahmad/git/cpp-torch/build/CMakeFiles/edit_cache.dir
